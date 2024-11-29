@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Questao5.Controllers.MovimentacaoController",
+    "Method": "MovimentarConta",
+    "RelativePath": "api/Movimentacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Questao5.Application.DTOs.MovimentacaoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
